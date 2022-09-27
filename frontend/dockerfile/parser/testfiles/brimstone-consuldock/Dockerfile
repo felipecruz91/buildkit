@@ -1,5 +1,5 @@
 #escape=\
-FROM brimstone/ubuntu:14.04
+FROM brimstone/ubuntu:14.04@sha256:f58e9b93e0cbbcb22ca4f995a14447732cce2aa6ff4d66d6112374272790f4e1
 
 LABEL maintainer brimstone@the.narro.ws
 
